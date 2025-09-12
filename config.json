@@ -1,10 +1,9 @@
 {
-  "API_ID":  ,
-  "API_HASH": " ",
-  "WORKER_URL": "https://your-worker.your-subdomain.workers.dev",
+  "API_ID": 1234567,
+  "API_HASH": "YOUR_API_HASH",
+  "WORKER_URL": "https://your-worker-url.com",
+  "default_timeout": 15,
   "fuzz_ratio_threshold": 85,
-  "default_timeout": 8,
-  "time_delay_threshold": 4,
-  "brute_force_row_limit": 50,
-  "telegram_flood_wait_sleep": 20
+  "time_delay_threshold": 5,
+  "brute_force_row_limit": 10
 }
