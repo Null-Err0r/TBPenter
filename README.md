@@ -116,4 +116,4 @@ python TBPenter.py
 
 این پروژه تحت مجوز **MIT** منتشر شده است.
 
-![Repo Badge](https://visitor-badge.laobi.icu/badge?page_id=null-err0r.Persian-PDFReader) 
+![Repo Badge](https://visitor-badge.laobi.icu/badge?page_id=null-err0r.TBPenter) 
