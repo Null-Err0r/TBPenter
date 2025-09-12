@@ -1,0 +1,9 @@
+# Linux/Unix Payloads
+Linux:|sleep {delay}
+Linux:;sleep {delay};#
+Linux:&& sleep {delay} && echo 
+Linux:$(sleep {delay})
+
+# Windows Payloads
+Windows:& timeout {delay}
+Windows:| timeout {delay}
