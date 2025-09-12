@@ -297,7 +297,7 @@ class TelegramBotPentestFramework:
 
 async def main():
     console = Console()
-    console.print(Panel("[bold green]TGBotPwnFramework v5.0 (Data-Driven Edition)[/bold green]", expand=False))
+    console.print(Panel("[bold green]TGBotPwnFramework v1.0 (Data-Driven Edition)[/bold green]", expand=False))
     console.print("This tool is for educational and authorized security testing purposes only.\n")
 
     bot_username = Prompt.ask("[cyan]۱. Enter the target bot's username (e.g., @mybot)[/cyan]")
