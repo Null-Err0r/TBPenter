@@ -11,7 +11,7 @@
 
 ![https://img.shields.io/badge/Python-3.7+-blue.svg](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![https://img.shields.io/badge/License-MIT-green.svg](https://img.shields.io/badge/License-MIT-green.svg)
-![https://img.shields.io/badge/Version-5.0-red.svg](https://img.shields.io/badge/Version-5.0-red.svg)
+![https://img.shields.io/badge/Version-5.0-red.svg](https://img.shields.io/badge/Version-1.0-red.svg)
 
 ---
 
