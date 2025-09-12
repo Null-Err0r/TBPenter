@@ -258,7 +258,7 @@ class VulnerabilityTester:
 class TelegramBotPentestFramework:
     def __init__(self, bot_username: str):
         self.bot_username = bot_username
-        self.client = TelegramClient('pentest_session_v5', CONFIG['API_ID'], CONFIG['API_HASH'])
+        self.client = TelegramClient('TBPenter', CONFIG['API_ID'], CONFIG['API_HASH'])
         self.console = Console()
         self.target_entity = None
         self.findings: List[Dict] = []
