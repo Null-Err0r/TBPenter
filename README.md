@@ -13,8 +13,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ![https://img.shields.io/badge/Version-1.0-red.svg](https://img.shields.io/badge/Version-1.0-red.svg)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103)
-
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103)]
 ---
 
 ## ⚠️ سلب مسئولیت بسیار مهم (Disclaimer)
