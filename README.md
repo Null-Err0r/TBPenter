@@ -10,8 +10,10 @@
 یک فریم‌ورک ماژولار و داده-محور برای تست نفوذ ربات‌های تلگرام، مجهز به دستیار AI و قابلیت‌های اسکن چندگانه. این نسخه ، نهایت انعطاف‌پذیری و قدرت را در اختیار تحلیل‌گران امنیت قرار می‌دهد.
 
 ![https://img.shields.io/badge/Python-3.7+-blue.svg](https://img.shields.io/badge/Python-3.7+-blue.svg)
-![https://img.shields.io/badge/License-MIT-green.svg](https://img.shields.io/badge/License-MIT-green.svg)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ![https://img.shields.io/badge/Version-1.0-red.svg](https://img.shields.io/badge/Version-1.0-red.svg)
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ---
 
