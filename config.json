@@ -1,0 +1,9 @@
+{
+  "API_ID": 20599843,
+  "API_HASH": "87f2b976ad15ecfa85951032e2f55429",
+  "WORKER_URL": "https://flat-thunder-44b8.awardbinsami.workers.dev/",
+  "default_timeout": 15,
+  "fuzz_ratio_threshold": 85,
+  "time_delay_threshold": 5,
+  "brute_force_row_limit": 10
+}
